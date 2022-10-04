@@ -25,8 +25,11 @@ Repository link where finalzed project can be pulled:
     https://laurabora118.github.io/UofA-Module6-ServerAPIWeather-LSandura/
 
 #Video link:
+    Link to watch online:
     https://watch.screencastify.com/v/z66xtasmkzGgHubj4Asz
-    ![Node MP4 video](./assets//uofa-module9-readmegenerator-lsandura-video.mp4)
+    
+    Raw mp4 video to watch must download
+    (./assets//uofa-module9-readmegenerator-lsandura-video.mp4)
 
 #How to open assignment after repo clone:
     Make sure to install node and inquirer to run these files.
