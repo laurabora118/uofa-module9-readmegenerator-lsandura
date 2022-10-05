@@ -16,6 +16,9 @@ Assignment Example Pictures:
     ![Node input user questions](./assets/nodequestionsexample1.jpg)
     ![Node generated read me answers](./assets/nodeanswersreadmeexample2.jpg)
 
+Sample README
+    ![Sample README.md file generated:](./assets/sampleREADME.md)
+
 Links:
 
     Repository link where finalzed project can be pulled:
@@ -29,8 +32,7 @@ Video link:
     Link to watch online:
     https://watch.screencastify.com/v/z66xtasmkzGgHubj4Asz
     
-    Raw mp4 video to watch must download
-    (./assets//uofa-module9-readmegenerator-lsandura-video.mp4)
+     ![Raw mp4 video to watch must download](./assets//uofa-module9-readmegenerator-lsandura-video.mp4)
 
 How to open assignment after repo clone:
 
