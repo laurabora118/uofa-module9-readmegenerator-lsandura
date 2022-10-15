@@ -22,10 +22,10 @@ Sample README
 Links:
 
     Repository link where finalzed project can be pulled:
-    https://github.com/laurabora118/UofA-Module6-ServerAPIWeather-LSandura
+    https://github.com/laurabora118/uofa-module9-readmegenerator-lsandura
 
     Git Repository Site that shows finalized projectresults:
-    https://laurabora118.github.io/UofA-Module6-ServerAPIWeather-LSandura/
+    https://laurabora118.github.io/uofa-module9-readmegenerator-lsandura/
 
 Video link:
 
